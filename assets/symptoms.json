@@ -1,0 +1,66 @@
+{
+    "FeverChills": {
+        "name": "Fever or chills",
+        "comorbidity": 0.5
+    },
+    "Cough": {
+        "name": "Cough",
+        "comorbidity": 0.5
+    },
+    "ShortnessBreathDifficultyBreathing": {
+        "name": "Shortness of breath or difficulty breathing",
+        "comorbidity": 0.5
+    },
+    "Fatigue": {
+        "name": "Fatigue",
+        "comorbidity": 0.5
+    },
+    "MuscleBodyAches": {
+        "name": "Muscle or body aches",
+        "comorbidity": 0.5
+    },
+    "Headache": {
+        "name": "Headache",
+        "comorbidity": 0.5
+    },
+    "NewLossTasteSmell": {
+        "name": "New loss of taste or smell",
+        "comorbidity": 0.5
+    },
+    "SoreThroat": {
+        "name": "Sore throat",
+        "comorbidity": 0.5
+    },
+    "CongestionRunnyNose": {
+        "name": "Congestion or runny nose",
+        "comorbidity": 0.5
+    },
+    "NauseaVomiting": {
+        "name": "Nausea or vomiting",
+        "comorbidity": 0.5
+    },
+    "Diarrhea": {
+        "name": "Diarrhea",
+        "comorbidity": 0.5
+    },
+    "TroubleBreathing": {
+        "name": "Trouble breathing",
+        "comorbidity": 0.5
+    },
+    "PersistentPainPressureChest": {
+        "name": "Persistent pain or pressure in the chest",
+        "comorbidity": 0.5
+    },
+    "NewConfusion": {
+        "name": "New confusion",
+        "comorbidity": 0.5
+    },
+    "InabilityWakeStayAwake": {
+        "name": "Inability to wake or stay awake",
+        "comorbidity": 0.5
+    },
+    "BluishLipsFace": {
+        "name": "Bluish lips or face",
+        "comorbidity": 0.5
+    }
+}
